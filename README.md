@@ -29,8 +29,8 @@ Para iniciar o seu projeto:
 
 ```bash
 cd api-postagem
-npm i
-npm run dev
+pnpm i
+pnpm run dev
 ```
 
 ## 📍 API Endpoints
